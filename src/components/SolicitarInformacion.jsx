@@ -3,7 +3,7 @@ import React from "react";
 const SolicitarInformacion = () => {
   return (
     <section className="bg-gray-100 py-10 text-center">
-      <h2 className="text-3xl font-semibold mb-4">Solicitar Información</h2>
+      <h2 className="text-3xl font-semibold mb-4">Solicita Información</h2>
       <form className="max-w-md mx-auto">
         <input
           type="text"

@@ -12,7 +12,7 @@ const App = () => {
     <div className="bg-gray-100">
       <Navbar />
       <Hero />
-      <SolicitarInformacion />
+      {/* <SolicitarInformacion /> */}
       <Programas />
       <Videos />
       <RedesSociales />

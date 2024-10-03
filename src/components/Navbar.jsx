@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <nav className="bg-blue-600 text-white">
       <div className="container mx-auto flex justify-between items-center py-4 px-6">
-        <h1 className="text-xl font-bold">Instituto de Educación</h1>
+        <h1 className="text-xl font-bold">Instituto Líder de Colombia</h1>
         <div className="hidden md:flex space-x-4">
           <a href="#programas" className="hover:text-gray-200">
             Programas
